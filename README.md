@@ -1,4 +1,4 @@
-# InnovAcer
+# Data Deduplication
 
 The problem of data duplication is very common in every database which means database have repeated data of same person with unnecessary changes. After learning so much, we human may recognize and further chatagorize them as **“Silly Mistakes”** on the basis of our continuous learning. But as we see in todays world that everything needs to be automated so that it can reduce human’s manual work. Therefore **data de-duplication** is one the main area of concern where researchers are putting their efforts to solve this problem in a way more effective and efficient manner.
 
